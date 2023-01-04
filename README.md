@@ -1,27 +1,20 @@
- # Hi, I’m Luis Eduardo 👋
- ### About Me
-- :desktop_computer: Dev from **Brazil** ! 
-- :heart: I'm passionate about **learning new technologies** ! 
-- 👀 Focus: Front/Back-end development !
-- 📝 Learning **NodeJS** and **Golang** !
-
-### How to reach me 
-- :envelope_with_arrow: E-mail: luiseduardomc019@gmail.com
-- :arrow_right: LinkedIn: www.linkedin.com/in/luiseduardomedunacabreira
-
-### Programming languages and Frameworks
-<div style='display: inline_block'><br>
+ ## Hi there 👋
+ My name is Luis Eduardo and I'm a computer science student from Brazil. Passionate about learning new things and solving problems.
  
-<img align='center' alt='HTML5' height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align='center' alt='CSS3' height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align='center' alt='Bootstrap' height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-<img align='center' alt='JavaScript' height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align='center' alt='React' height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align='center' alt='React' height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
- 
+ <div>
+	:seedling: Interests:
+	<ul>
+	 	<li>Web Development</li>
+		<li>Blockchain</li>
+	 	<li>Algorithms and Data Structures</li>
+	 	<li>Golang, React, JavaScript, Python, C++</li>
+	</ul>
 </div>
 
-<!---
-LuisEduardo-M/LuisEduardo-M is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div>
+	:mailbox: Reach me:
+	<ul>
+		<li>Email: luiseduardomc019@gmail.com</li>
+		<li>LinkedIn: www.linkedin.com/in/luiseduardomedunacabreira/
+	</ul>
+</div>
