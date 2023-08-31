@@ -1,9 +1,9 @@
 ### ⛩  welcome よろしく 
 
-My name is Luis Eduardo and I'm a computer science student from Brazil. Passionate about learning new things, solving problems and creating useful applications.<br>
-I'm currently improving my problem solving skills in C and Java while working on personal projects with Golang in my free time.
+My name is Luis Eduardo and I'm a computer science student from Brazil. Passionate about learning new things, solving problems and customizations.<br>
+I'm currently improving my problem solving skills in C and Java while working on personal projects in my free time.
 
-#### :takeout_box: Check out my latest project: <a href="https://github.com/luisedmc/ghcmd">ghcmd</a>
+#### :takeout_box: Check out my latest project <a href="https://github.com/luisedmc/ghcmd">ghcmd</a>
 
 ### :milky_way: interests
 
